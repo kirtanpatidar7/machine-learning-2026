@@ -3,8 +3,8 @@
 This repository contains laboratory work for the Machine Learning course.
 The semester-long dataset is the Olist Brazilian E-Commerce Public Dataset.
 ## Prepared by
-Sharad Laad
-LinkedIn: https://www.linkedin.com/in/sharadlaad/
+kirtan patidar 
+https://www.linkedin.com/in/kirtan-patidar-90a1b532b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ## Folder Structure
 - `data/raw/`: Original dataset files
 - `data/processed/`: Cleaned datasets
